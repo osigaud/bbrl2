@@ -9,5 +9,6 @@ Under Development
 
 # Next steps
 
-* include remoteAgent, asynchronousAgent
+* adapt gymb.py and functionalb.py from bbrl and integrate in bbrl2
+* adapt remoteAgent, asynchronousAgent
 * ...
